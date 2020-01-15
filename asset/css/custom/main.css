@@ -93,11 +93,7 @@ body{
 .textslide{
     background-color: #ffffff;
 }
-.text-actived{
-    color: rgb(255, 0, 0) !important;
-    font-family: 'Prompt', sans-serif;
-    font-size: 18px;
-}
+
 .text-muster{
     color: rgb(29, 29, 29) !important;
     font-family: 'Prompt', sans-serif;
@@ -154,12 +150,7 @@ body{
     margin-right: auto;
     width: 100%;
 }
-.fa-home{
-    content: "\f015";
-}
-.fab {
-    font-family: "Font Awesome 5 Brands";
-}
+
 .pt-1, .py-1 {
     padding-top: .25rem!important;
 }
