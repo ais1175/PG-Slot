@@ -49,7 +49,7 @@ body{
     font-weight: 900;
 }
 .text-model{
-    font-size: 28px;
+    font-size: 18px;
     font-family: 'Prompt', sans-serif;
     font-weight: 900;
 }
@@ -150,25 +150,25 @@ body{
 .register-button {
     position: fixed;
     bottom: 300px;
-    right: 20px;
+    right: 6px;
 }
 .line-button {
     position: fixed;
     bottom: 240px;
-    right: 20px;
+    right: 6px;
 }
 .facebook-button {
     position: fixed;
     bottom: 160px;
-    right: 20px;
+    right: 6px;
 }
 .shadow-sm {
     box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
 }
 .container-fluid {
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -178,19 +178,4 @@ body{
     background: -webkit-linear-gradient(-45deg, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
     background: linear-gradient(135deg, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6', GradientType=1);
-}
-.fa, .far, .fas {
-    font-family: "Font Awesome 5 Free";
-}
-.fa-registered:before {
-    content: "\f25d";
-}
-.fa-sign-in-alt:before {
-    content: "\f2f6";
-}
-.fa-download:before {
-    content: "\f019";
-}
-.fa-book-open:before {
-    content: "\f518";
 }
