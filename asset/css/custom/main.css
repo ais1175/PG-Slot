@@ -1,6 +1,6 @@
 body{
     background-repeat: repeat-y;
-    background-color:#f0f9ff;
+    background-color:#f0e3ff;
     background-position: 20%;
     line-height: 1.4;
     margin: 0 auto;
@@ -26,7 +26,7 @@ body{
 }
 
 .textslide{
-    background-color: #ff822f;
+    background-color: #916dd5;
     
 }
 
@@ -64,7 +64,7 @@ body{
 
 .example_e {
     border: none;
-    background: #ffa600;
+    background: #916dd5;
     color: #ffffff !important;
     font-weight: 100;
     padding: 20px;
@@ -77,7 +77,7 @@ body{
 }
 .example_em {
         border: none;
-        background: #ff3c00;
+        background: #3e206d;
         color: #ffffff !important;
         font-weight: 100;
         padding: 20px;
@@ -111,7 +111,7 @@ body{
         font-size: 18px;
 }
 .title-border {
-    border-left: rgb(255, 115, 0) 5px solid;
+    border-left: #3e206d;
     font-size: 20px;
     padding-left: 8px;
 }
@@ -135,7 +135,7 @@ body{
     margin-bottom: 0px;
 }
 .text-danger {
-    color: rgb(247, 26, 18) !important;
+    color: #3e206d !important;
 }
 .btn-bd-download {
     font-weight: 600;
