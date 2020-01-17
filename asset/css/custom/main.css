@@ -48,6 +48,11 @@ body{
     font-family: 'Prompt', sans-serif;
     font-weight: 900;
 }
+.text-model{
+    font-size: 28px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+}
 .page-footer
 {
     background-color: #ffffff;
@@ -141,4 +146,51 @@ body{
     font-weight: 600;
     color: #ffe484;
     border-color: #ffe484;
+}
+.register-button {
+    position: fixed;
+    bottom: 300px;
+    right: 20px;
+}
+.line-button {
+    position: fixed;
+    bottom: 240px;
+    right: 20px;
+}
+.facebook-button {
+    position: fixed;
+    bottom: 160px;
+    right: 20px;
+}
+.shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bc-silver-g {
+    background: #ffffff;
+    background: -moz-linear-gradient(-45deg, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
+    background: -webkit-linear-gradient(-45deg, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
+    background: linear-gradient(135deg, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6', GradientType=1);
+}
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+}
+.fa-registered:before {
+    content: "\f25d";
+}
+.fa-sign-in-alt:before {
+    content: "\f2f6";
+}
+.fa-download:before {
+    content: "\f019";
+}
+.fa-book-open:before {
+    content: "\f518";
 }
