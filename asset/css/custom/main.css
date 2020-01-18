@@ -35,10 +35,21 @@ body{
     font-family: 'Prompt', sans-serif;
     font-size: 16px;
 }
-.text-footer{
-    color: rgb(255, 255, 255) !important;
+.text-menu{
+    color: rgb(224, 224, 224) !important;
     font-family: 'Prompt', sans-serif;
     font-size: 16px;
+}
+.text-menu:hover {
+    color: #12cad6 !important;
+    font-weight: 700 !important;
+    letter-spacing: 3px;
+    background: none;
+    -webkit-box-shadow: 0px 5px 40px -10px rgb(255, 255, 255);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(255, 255, 255, 0.57);
+    transition: all 0.3s ease 0s;
+    font-family: 'Prompt', sans-serif;
+    font-size: 18px;
 }
 
 .text-onboard{
