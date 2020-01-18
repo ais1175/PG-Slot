@@ -51,6 +51,11 @@ body{
     font-family: 'Prompt', sans-serif;
     font-size: 18px;
 }
+.text-foot{
+    color: #ffffff!important;
+    font-family: 'Prompt', sans-serif;
+    font-size: 16px;
+}
 
 .text-onboard{
     color: white !important;
