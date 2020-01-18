@@ -1,6 +1,6 @@
 body{
     background-repeat: repeat-y;
-    background-color:#f0e3ff;
+    background-color:#fa163f;
     background-position: 20%;
     line-height: 1.4;
     margin: 0 auto;
@@ -26,12 +26,17 @@ body{
 }
 
 .textslide{
-    background-color: #916dd5;
+    background-color: #ff6464;
     
 }
 
 .text-muster{
     color: rgb(29, 29, 29) !important;
+    font-family: 'Prompt', sans-serif;
+    font-size: 16px;
+}
+.text-footer{
+    color: rgb(255, 255, 255) !important;
     font-family: 'Prompt', sans-serif;
     font-size: 16px;
 }
@@ -48,6 +53,19 @@ body{
     font-family: 'Prompt', sans-serif;
     font-weight: 900;
 }
+.text-header2{
+    color: #ffffff!important;
+    font-size: 28px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+}
+.text-h1{
+    color: #ffffff!important;
+    font-size: 200px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+}
+
 .text-model{
     font-size: 18px;
     font-family: 'Prompt', sans-serif;
@@ -55,7 +73,7 @@ body{
 }
 .page-footer
 {
-    background-color: #ffffff;
+    background-color: #851d41;
 }
 .row {
 
@@ -69,7 +87,7 @@ body{
 
 .example_e {
     border: none;
-    background: #916dd5;
+    background: #12cad6;
     color: #ffffff !important;
     font-weight: 100;
     padding: 20px;
@@ -82,7 +100,7 @@ body{
 }
 .example_em {
         border: none;
-        background: #3e206d;
+        background: #ffb99a;
         color: #ffffff !important;
         font-weight: 100;
         padding: 20px;
@@ -140,7 +158,7 @@ body{
     margin-bottom: 0px;
 }
 .text-danger {
-    color: #3e206d !important;
+    color: #fa163f!important;
 }
 .btn-bd-download {
     font-weight: 600;
