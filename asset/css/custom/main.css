@@ -286,7 +286,8 @@ span.name
 .title-border {
     border-left: #3e206d;
     font-size: 20px;
-    padding-left: 8px;
+    padding-left: 10px;
+    padding-bottom: 8px;
 }
 
 .marquee {
