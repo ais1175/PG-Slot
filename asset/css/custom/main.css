@@ -328,7 +328,11 @@ span.name
     bottom: 300px;
     right: 6px;
 }
-
+.banner{
+    position: fixed;
+    bottom: 530px;
+    right: 20px;
+}
 .line-button {
     position: fixed;
     bottom: 240px;
@@ -398,3 +402,11 @@ span.name
     color: white;
     transform: rotateY(180deg);
   }
+
+  .close {
+    float: right;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+    color: white;
+}
