@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /index.html
+Allow: /withdraw.html
+Allow: /promotion.html
+Allow: /contact.html
+Disallow: /loginBk.html
+Allow: /pic
+Sitemap: http://pgslot789.com/sitemap.xml
