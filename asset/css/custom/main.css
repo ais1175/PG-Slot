@@ -1,7 +1,12 @@
 body {
-    background-repeat: repeat-y;
-    background-color: #fa163f;
-    background-position: 20%;
+    /* background-repeat: repeat-y; */
+    /* background-color: #ff006c; */
+    /* background-image: url('/asset/img/blue_gradian.jpg'); */
+    background: linear-gradient(#c20b38, #ff0f43);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50%;
     line-height: 1.4;
     margin: 0 auto;
     
@@ -340,19 +345,19 @@ span.name
 }
 .banner{
     position: fixed;
-    bottom: 530px;
+    bottom: 440px;
     right: 20px;
 }
 .line-button {
     position: fixed;
-    bottom: 240px;
-    right: 6px;
+    bottom: 280px;
+    right: 18px;
 }
 
 .facebook-button {
     position: fixed;
-    bottom: 160px;
-    right: 6px;
+    bottom: 230px;
+    right: 18px;
 }
 
 .shadow-sm {
