@@ -113,7 +113,9 @@ body {
     font-size: 18px;
     font-weight: 900;
 }
-
+a{
+    color: #851d41;
+}
 .text-menu {
     color: rgb(224, 224, 224) !important;
     font-family: 'Prompt', sans-serif;
@@ -151,6 +153,14 @@ span.name
         font-family: 'Prompt', sans-serif;
         font-weight: 900;
         
+}
+.text-titleblog{
+    color: #fd214a ;
+    padding-left: 8px;
+    font-size: 22px;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+    
 }
 
 .text-footer {
