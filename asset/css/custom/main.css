@@ -337,26 +337,25 @@ span.name
     color: #ffe484;
     border-color: #ffe484;
 }
-
-.register-button {
-    position: fixed;
-    bottom: 300px;
-    right: 6px;
-}
 .banner{
     position: fixed;
-    bottom: 440px;
+    bottom: 230px;
     right: 20px;
+}
+.register-button {
+    position: fixed;
+    bottom: 90px;
+    right: 9px;
 }
 .line-button {
     position: fixed;
-    bottom: 280px;
+    bottom: 70px;
     right: 18px;
 }
 
 .facebook-button {
     position: fixed;
-    bottom: 230px;
+    bottom: 20px;
     right: 18px;
 }
 
