@@ -94,6 +94,9 @@ body {
 .tab-content-detail {
     background-color: #ffffff
 }
+.tab-content-detail-product {
+    background-color: #202020
+}
 
 .center {
     display: block;
